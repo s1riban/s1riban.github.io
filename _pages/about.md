@@ -32,6 +32,10 @@ In recognition of Discovery project titled "Testing the Aerodynamics of Small Ve
 
 Small scale models of low-poly cars at varying dimensions were designed using CAD and 3D printed in order to analyse and test their aerodynamics and efficiency. LoggerPro was used to graphically analyze and plot the cars' speeds when recorded travelling identical paths. SimScale was used to complete a CFD analysis of each car under identical conditions to retrieve their drag coefficients, and visualize wind flow in a simulated wind tunnel.
 
+## 💻 Learning Portfolio
+
+I've set up an in-depth learning portfolio on Notion documenting my completed projects during my first year.
+
 # High School & Leadership Experience
 
 ## 🔧 FIRST Robotics: Wolverine Robotics Team 5596
