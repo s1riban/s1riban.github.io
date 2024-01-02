@@ -14,27 +14,18 @@ redirect_from:
 
 📚 I'm interested in robotics, electromechanical systems, automotive technology, and autonomous systems.
 
+🗂️ Check out my Portfolio to see my projects!
+
 # University Experience
 
 ## ⚡️ Formula Electric
 
-As a current member of MAC Formula Electric, I've gained experience in ... 
+I am currently a part of the Powertrain team, on the accumulator sub-team as a mechanical member. 
+So far, I've researched variety critical fasteners to be implemented in the enclosure, researched and selected optimal battery vent valves, assisted in researching HV isolation and powder coating for insulation, and aided in creation of carbon fiber test panels.
 
 ## 🤖 SumoBot (In Progress)
 
 Looking to compete in mid-January 2024 at McMaster University, I and a team of three others are working on designing an autonomous combat robot to compete in a sumo-style competition against other teams.
-
-# Projects
-
-## 🧪 Toronto Science Fair 2023 - Silver Medalist
-
-In recognition of Discovery project titled "Testing the Aerodynamics of Small Vehicles" at the Toronto Science Fair held at the University of Toronto, my partner and I won silver. Utilizing CAD, 3D printing, computational fluid dynamics analysis, and graphical softwares, models were built, tested, and analyzed. 
-
-Small scale models of low-poly cars at varying dimensions were designed using CAD and 3D printed in order to analyse and test their aerodynamics and efficiency. LoggerPro was used to graphically analyze and plot the cars' speeds when recorded travelling identical paths. SimScale was used to complete a CFD analysis of each car under identical conditions to retrieve their drag coefficients, and visualize wind flow in a simulated wind tunnel.
-
-## 💻 Learning Portfolio
-
-I've set up an in-depth learning portfolio on Notion documenting my completed projects during my first year.
 
 # High School & Leadership Experience
 
@@ -48,7 +39,7 @@ Competing in VEX and Skills Ontario competitions, I gained experience in my high
 
 ## 🍎 Young Spiritans
 
-I'm the co-founder and served as co-president of two years of my high school's largest extra curricual club. Dedicated to student leadership, advocacy and charity, I've led a club of over 50 students in donating hundreds of canned goods multiple times per year, winter necessities to homeless shelters in downtown Toronto, and led school-wide initiatives to raise awareness for anti-child sex trafficking among other social issues.
+I'm the co-founder and served as co-president of two years of my high school's largest extra curricual club. Dedicated to student leadership, advocacy and charity, I've led a club of over 50 students in making an impact across the city of Toronto. This was achieved by donating hundreds of canned goods multiple times per year, winter necessities to homeless shelters in downtown Toronto, and leading school-wide initiatives to raise awareness for anti-child sex trafficking among other social issues. I helped to manage social media promotion and promote student involvement, growing the club from 2 initial members to over 50 in my final year.
 
 ## ⚖️ Debate Society
 
