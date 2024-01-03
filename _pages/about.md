@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Kayla Siriban"
+title: "👋 Hi! I'm Kayla Siriban"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
