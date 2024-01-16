@@ -25,9 +25,7 @@ So far, I've researched variety critical fasteners to be implemented in the encl
 
 I look forward to increasing my knowledge of electric vehicles and batteries, acquiring further research and CAD skills, and developing ability to work collaboratively and communicate effectively.
 
-## 🤖 SumoBot (In Progress)
 
-Looking to compete in mid-January 2024 at McMaster University, I and a team of three others are working on designing an autonomous combat robot to compete in a sumo-style competition against other teams.
 
 # High School & Leadership Experience
 
